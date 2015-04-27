@@ -1,0 +1,11 @@
+\\skra2.2t.local\nemfredirect$\2612973379\documents\visual studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\bin\Debug\GRU_H8_Test.exe.config
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\bin\Debug\GRU_H8_Test.exe
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\bin\Debug\GRU_H8_Test.pdb
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\bin\Debug\MySql.Data.dll
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.csprojResolveAssemblyReference.cache
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.Properties.Resources.resources
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.csproj.GenerateResource.Cache
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.exe
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.pdb
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.Control.resources
+\\SKRA2.2t.local\nemfredirect$\2612973379\Documents\Visual Studio 2013\Projects\GRU_H8_Test\GRU_H8_Test\obj\Debug\GRU_H8_Test.Login.resources
